@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/drawable/shade.xml" value="0.3104166666666667" />
+        <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.19722222222222222" />
+        <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/layout/fragment_favorite.xml" value="0.15677083333333333" />
         <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/layout/fragment_movie.xml" value="0.2942708333333333" />
         <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/layout/item_movie.xml" value="0.28974358974358977" />
+        <entry key="..\:/Mobile Apps Projects/kotlin/MovieApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2942708333333333" />
       </map>
     </option>
   </component>
