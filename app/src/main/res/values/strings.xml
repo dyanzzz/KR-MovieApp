@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MovieApp</string>
+    <string name="data_gagal_dimuat">Data gagal dimuat</string>
+    <string name="retry">Retry</string>
+    <string name="movie_tidak_ditemukan">Movie tidak ditemukan</string>
 </resources>
